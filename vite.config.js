@@ -12,7 +12,7 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: 7865,
-    allowedHosts: [''], 
+    allowedHosts: ['imoji-killer.onrender.com'], 
   },
   resolve: {
     alias: {
